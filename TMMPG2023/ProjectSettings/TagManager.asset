@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fighter
+  - Dead
+  - hud
+  - ulepszenieLAT
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - aim
+  - Water
+  - UI
+  - Blocking
+  - "Posta\u0107"
+  - aimer
+  - fireball1
+  - fireball2
+  - mage1
+  - dashingLayer
+  - strzalaGoblina
+  - potwor
+  - mage2
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: "Pod\u0142oga"
+    uniqueID: 751193437
+    locked: 0
+  - name: Postacie
+    uniqueID: 671510927
+    locked: 0
+  - name: Sciany
+    uniqueID: 2635663767
+    locked: 0
+  - name: Interaktywne
+    uniqueID: 3134682795
+    locked: 0
+  - name: Bronie
+    uniqueID: 2436147801
+    locked: 0
